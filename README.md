@@ -12,6 +12,7 @@ uPressure is a smart blood pressure monitor that can provide online storage, dat
 
 In this device we have an app, a blood pressure monitor, and a cloud storage.
 
+This project is using 2x Micro:Bit V2 with UART protocol to transfer data.
 
 Team Member:
 Darwin HUI
