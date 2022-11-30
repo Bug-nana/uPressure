@@ -15,8 +15,8 @@ In this device we have an app, a blood pressure monitor, and a cloud storage.
 This project is using 2x Micro:Bit V2 with UART protocol to transfer data.
 
 Team Member:
-Darwin HUI
-SIU Siu Ting
+Darwin HUI, 
+SIU Siu Ting, 
 YUNG Kam Lun
 
 2022 Fall
