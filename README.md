@@ -32,4 +32,4 @@ Demonstration Video:
  <img src="http://img.youtube.com/vi/SdMyfrhVxo4/0.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 
-<a href="darwinenergy@gmail.com" target="_blank">Darwin's Email</a>
+<a href="mailto:darwinenergy@gmail.com?subject = Feedback&body = Message" target="_blank">Darwin's Email</a>
